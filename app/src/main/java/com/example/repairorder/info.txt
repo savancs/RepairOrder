@@ -1,0 +1,2 @@
+1. Text View
+2. You can input text in a TextEdit and not input text in TextView
